@@ -1,0 +1,33 @@
+{
+    "PG":[
+        {
+            "Id":"1",
+            "palce":"Chennai",
+            "Bedrooms":"1",
+            "Rent":"4500"
+
+        },
+        {
+            "Id":"1",
+            "palce":"Chennai",
+            "Bedrooms":"3",
+            "Rent":"8500"
+
+        },
+        {
+            "Id":"1",
+            "palce":"Chennai",
+            "Bedrooms":"4",
+            "Rent":"7000"
+
+        },
+        {
+            "Id":"1",
+            "palce":"Chennai",
+            "Bedrooms":"2",
+            "Rent":"9000"
+
+        }
+        
+    ]
+}
